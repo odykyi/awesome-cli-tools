@@ -34,6 +34,7 @@
 | [pre-commit](https://github.com/pre-commit/pre-commit) | 语言无关的 Git 提交钩子管理，可锁定工具版本 | Language-agnostic Git hook manager with pinned tool versions | `python`, `git`, `hooks`, `ci` | MIT |
 | [lefthook](https://github.com/evilmartians/lefthook) | 单二进制的 Git 钩子管理器，并行执行、配置集中 | Single-binary Git hook manager with parallel execution and one config | `go`, `git`, `hooks` | MIT |
 | [act](https://github.com/nektos/act) | 在本机用容器运行 GitHub Actions 工作流，缩短反馈环 | Runs GitHub Actions workflows locally in containers to shorten feedback loops | `go`, `ci`, `containers` | MIT |
+| [Flisk](https://github.com/flisk-sh/flisk) | 一条命令从空目录生成并启动整套技术栈（框架、数据库、配置一次到位） | One command from an empty folder to a running full-stack setup (framework, database, config) | `node`, `scaffold`, `automation`, `cross-platform` | MIT |
 
 ## 组合用法 / Combinations
 
